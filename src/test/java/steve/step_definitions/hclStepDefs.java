@@ -17,7 +17,7 @@ public class hclStepDefs {
 
 
     @Then("^print the area of a triangle with (\\d+) and height (\\d+)$")
-    public static void printAreaOfTriangle(String city, String country) throws Throwable {
+    public static void printAreaOfTriangle(int width, int height ) throws Throwable {
     }
 
     @Then("^does the Founder and Chairman exist$")
