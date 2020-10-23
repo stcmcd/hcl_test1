@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/ScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steve/step_definitions/ScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/hcl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/hcl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,9 +24,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Main.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/hclStepDefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2305">
+            <state>
               <caret line="211" selection-start-line="211" selection-end-line="211" />
             </state>
           </provider>
@@ -32,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="204">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -54,16 +78,16 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/PrintLines.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ScreenShot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="425">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,8 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/xpath1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/selenium/acre.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/Bikes.java" />
         <option value="$PROJECT_DIR$/src/main/java/steve/framework/WebDriverDiscovery.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/dbjson.json" />
@@ -191,10 +213,12 @@
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/gmail.java" />
         <option value="$PROJECT_DIR$/src/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java" />
-        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/AreaTriangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/PrintLines.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/ScreenShot.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Main.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/hclStepDefs.java" />
       </list>
     </option>
   </component>
@@ -233,7 +257,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,10 +291,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="step_definitions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hcl-test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcl-test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcl-test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcl-test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ScreenShot.ScreenShot">
+  <component name="RunManager" selected="Cucumber java.Scenario: Triangle">
     <configuration name="AreaTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steve.step_definitions.AreaTriangle" />
       <module name="SteveTests1" />
@@ -333,19 +372,6 @@
     </configuration>
     <configuration name="PrintLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steve.step_definitions.PrintLines" />
-      <module name="SteveTests1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steve.step_definitions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ecs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.ecs" />
       <module name="SteveTests1" />
       <extension name="coverage">
         <pattern>
@@ -379,6 +405,25 @@
       <option name="NAME_FILTER" value="^Enter exact price for drink$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter exact price for drink$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Enter exact price for drink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Triangle" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Main.feature" />
+      <option name="GLUE" value="cucumber.api.spring" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^Triangle$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Triangle$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Triangle" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -453,24 +498,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ecs" />
+      <item itemvalue="Application.hcl" />
+      <item itemvalue="Application.AreaTriangle" />
+      <item itemvalue="Application.PrintLines" />
       <item itemvalue="Cucumber java.Scenario: Enter exact price for drink" />
       <item itemvalue="JUnit.Denoninator" />
       <item itemvalue="JUnit.Lion" />
       <item itemvalue="JUnit.RunCukesTest" />
       <item itemvalue="JUnit.Unnamed" />
-      <item itemvalue="Application.hcl" />
-      <item itemvalue="Application.AreaTriangle" />
-      <item itemvalue="Application.PrintLines" />
       <item itemvalue="TestNG.ScreenShot.ScreenShot" />
+      <item itemvalue="Cucumber java.Scenario: Triangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Scenario: Triangle" />
+        <item itemvalue="Application.hcl" />
         <item itemvalue="TestNG.ScreenShot.ScreenShot" />
         <item itemvalue="Application.PrintLines" />
         <item itemvalue="Application.AreaTriangle" />
-        <item itemvalue="Application.hcl" />
-        <item itemvalue="Application.ecs" />
       </list>
     </recent_temporary>
   </component>
@@ -488,9 +533,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 27m 02s.xml">
-      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 27m 44s.xml">
       <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -518,6 +560,9 @@
     <history-entry file="ScreenShot_ScreenShot - 2020.10.23 at 14h 23m 52s.xml">
       <configuration name="ScreenShot.ScreenShot" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Scenario__Triangle - 2020.10.23 at 17h 24m 08s.xml">
+      <configuration name="Scenario: Triangle" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="18" width="1817" height="1010" extended-state="0" />
@@ -528,7 +573,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5021097" side_tool="true" weight="0.18554354" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.18155947" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.18326694" />
       <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.16960728" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" weight="0.30216646" />
@@ -537,7 +582,7 @@
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3295325" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.31584948" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.5758267" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.33751425" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -939,9 +984,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Codility/Codility1.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Vending.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/NotFullaidException.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Sample.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Machine.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CashInMachine.java" />
@@ -1018,37 +1060,19 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/CoinHolding.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Item.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/RunCukesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ecs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/AreaTriangle" />
     <entry file="file://$PROJECT_DIR$/src/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2305">
+        <state>
           <caret line="211" selection-start-line="211" selection-end-line="211" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/AreaTriangle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunCukesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="170">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1065,14 +1089,48 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/PrintLines.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/api/cli/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/hcl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/ScreenShot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="425">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Main.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/hclStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

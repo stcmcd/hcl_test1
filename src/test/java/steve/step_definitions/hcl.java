@@ -17,7 +17,7 @@ public class hcl {
         WebDriver driver = new ChromeDriver();
 //        WebDriver driver = new FirefoxDriver();
         driver.manage().window().maximize();
-        driver.get("https://www.hcl.com/ ");
+        driver.get("https://www.hcl.com/");
 
         WebElement el;
 

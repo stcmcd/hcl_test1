@@ -23,7 +23,7 @@ public class ScreenShot {
         driver.manage().window().maximize();
 
 // Pass the url
-        driver.get("http://www....");
+        driver.get("https://www.hcl.com/");
 
 // Take screenshot and store as a file format
         File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
