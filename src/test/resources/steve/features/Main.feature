@@ -8,4 +8,4 @@ Feature: hcl
     And does the Founder and Chairman exist
 
   Scenario: 3. Screenshots
-    And Screenshote
+    And Screenshots
