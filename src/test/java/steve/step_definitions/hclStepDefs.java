@@ -16,27 +16,26 @@ public class hclStepDefs {
 
     @Then("^print the area of a triangle with (\\d+) and height (\\d+)$")
     public static void printAreaOfTriangle(int width, int height ) throws Throwable {
-        double area = (width* height)/2;
-        System.out.println("Area of Triangle: " + area);
+        System.out.println("Area of Triangle: " + (width* height)/2);
     }
 
-//    @Then("^does the Founder and Chairman exist$")
-//    public static void founderAndChairman() throws Throwable {
-//        System.setProperty("webdriver.chrome.driver", CHROME_DRIVER_PATH);
-//
-//        WebDriver driver = new ChromeDriver();
-////        WebDriver driver = new FirefoxDriver();
-//        driver.manage().window().maximize();
-//        driver.get("https://www.hcl.com/");
-//
-//        WebElement el;
-//
-////        el = driver.findElement(By.xpath(".//a[@href = 'https://hcl.com/leadership/']"));
-////        el = driver.findElement(By.xpath(".//a[contains(text(), 'Leadership')]"));
-//        driver.get("https://hcl.com/leadership/");
-//
-//        assertTrue(driver.findElement(By.xpath(".//b[contains(text(), 'Founder & Chairman')]")).isDisplayed());
-//    }
+    @Then("^does the Founder and Chairman exist$")
+    public static void founderAndChairman() throws Throwable {
+        System.setProperty("webdriver.chrome.driver", CHROME_DRIVER_PATH);
+
+        WebDriver driver = new ChromeDriver();
+//        WebDriver driver = new FirefoxDriver();
+        driver.manage().window().maximize();
+        driver.get("https://www.hcl.com/");
+
+        WebElement el;
+
+//        el = driver.findElement(By.xpath(".//a[@href = 'https://hcl.com/leadership/']"));
+//        el = driver.findElement(By.xpath(".//a[contains(text(), 'Leadership')]"));
+        driver.get("https://hcl.com/leadership/");
+
+        assertTrue(driver.findElement(By.xpath(".//b[contains(text(), 'Founder & Chairman')]")).isDisplayed());
+    }
 
     @Then("^Screenshots$")
     public static void screenshots(String basePath, DataTable dataTable) throws Throwable {

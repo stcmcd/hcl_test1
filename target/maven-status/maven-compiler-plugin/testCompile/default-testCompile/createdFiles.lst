@@ -1,2 +1,3 @@
-steve\step_definitions\ecs.class
+steve\step_definitions\PrintLines.class
 steve\RunCukesTest.class
+hclStepDefs.class
